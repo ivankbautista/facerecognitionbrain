@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+------------------------------------------------------------------------------------------------------
+
+// PROGRAM INSTRUCTIONS:
+1) To access the program, please visit: https://facial-recognition-brain.herokuapp.com/ 
+2) Sign in if you have an existing account, if not, please register an account
+3) After you have signed in, or after you have registered and logged in, please
+  - Go to google and copy an image link; 
+    ex: https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg and click DETECT
+4) Congrats! Watch as your entry count goes up!
+
+-------------------------------------------------------------------------------------------------------
 ## Available Scripts
 
 In the project directory, you can run:
